@@ -1,0 +1,883 @@
+    1  sudo apt install curl
+    2  curl -sS https://getcomposer.org/installer | php
+    3  sudo systemctl status apache2
+    4  sudo apt install apache2
+    5  sudo ufw allow “Apache Full”
+    6  sudo systemctl status apache2
+    7  sudo apt install php libapache2-mod-php php-mbstring php-xmlrpc php-soap php-gd php-xml php-cli php-zip php-bcmath php-tokenizer php-json php-pear
+    8  apt-get update
+    9  cd /etc/apt/sources.list.d/
+   10  dir
+   11  mv mono-xamarin.listsudo mono-xamarin.list
+   12  apt-get update
+   13  sudo apt-get update
+   14  apt-get update
+   15  sudo nano /var/www/html/test.php
+   16  cd
+   17  cdexit
+   18  cd ..
+   19  cd .
+   20  sudo apt install mariadb-server
+   21  sudo mysql_secure_installation
+   22  curl -sS https://getcomposer.org/installer | php
+   23  sudo apt install curl
+   24  curl -sS https://getcomposer.org/installer | php
+   25  sudo mv composer.phar /usr/local/bin/composer
+   26  sudo php composer-setup.php --install-dir=/usr/local/bin
+   27  sudo apt update
+   28  sudo apt install wget php-cli php-zip unzip
+   29  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+   30  sudo curl -sS https://getcomposer.org/installer | sudo php
+   31  composer
+   32  sudo mv composer.phar /usr/local/bin/composer
+   33  sudo chmod +x /usr/local/bin/composer
+   34  composer create-project --prefer-dist laravel/laravel [project_name]
+   35  composer
+   36  composer update
+   37  composer -V
+   38  composer create-project --prefer-dist laravel/laravel [project_name]
+   39  laravel new project
+   40  laravel new project creat
+   41  composer
+   42  create-project
+   43  selfupdate
+   44  php artisan
+   45  curl -s https://laravel.build/example-app | bash
+   46  composer create-project laravel/laravel example-app
+   47  dir
+   48  cd home
+   49  dir
+   50  cd saleem/
+   51  dir
+   52  cd documents
+   53  dir
+   54  cd home
+   55  cd saleem/
+   56  dir
+   57  cd desktop
+   58  cd Downloads/
+   59  dir
+   60  sudo dpkg -i teamviewer_15.15.5_amd64.deb
+   61  dir
+   62  cd Documents/
+   63  dir
+   64  cd projects/
+   65  composer
+   66  composer create-project laravel/laravel example-app
+   67  composer create-project laravel/laravel example
+   68  cd..
+   69  cd
+   70  dir
+   71  cd Downloads/
+   72  cd ~/Downloads
+   73  sudo dpkg -i code_1.26.0-1534177765_amd64.deb
+   74  dir
+   75  sudo dpkg -i code_1.26.0-1534177765_amd64.deb
+   76  dir
+   77  sudo dpkg -i code_1.53.2-1613044664_amd64.deb
+   78  apt-get install git
+   79  sudo apt-get install git
+   80  apt-get install git
+   81  sudo apt-get install git
+   82  sudo apt-get update
+   83  apt-get install git
+   84  sudo apt-get install git
+   85  exit
+   86  apt install teamviewer_12.0.xxxxx_i386.deb 
+   87  sudo apt install teamviewer_12.0.xxxxx_i386.deb 
+   88  urpmi --force --allow-nodeps teamviewer_12.0.xxxxx.i686.rpm 
+   89  apt-get install git
+   90  sudo apt-get install git
+   91  apt --fix-broken install
+   92  sudo apt --fix-broken install
+   93  sudo apt-get install git
+   94  dir
+   95  cd Docudir
+   96  cd Documents/
+   97  cd projects/
+   98  php artisan serve
+   99  php artisan 
+  100  artisan
+  101  composer
+  102  composer install
+  103  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+  104  php -r "if (hash_file('sha384', 'composer-setup.php') === '756890a4488ce9024fc62c56153228907f1545c228516cbf63f885e036d37e9a59d27d63f46af1d4d07ee0f76181c7d3') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+  105  php composer-setup.php
+  106  php -r "unlink('composer-setup.php');"
+  107  composer install
+  108  composer diagnose
+  109  composer update
+  110  dir
+  111  cd microjo.site/
+  112  php artisan
+  113  php artisan serve
+  114  composer install
+  115  php artisan serve
+  116  php artisan key:generate
+  117  -v
+  118  php artisan key:generate
+  119  <body data-rsssl="1" class="post-template-default single single-post postid-37138 single-format-standard wp-custom-logo wp-embed-responsive post-image-above-header post-image-aligned-center secondary-nav-above-header secondary-nav-aligned-center right-sidebar nav-below-header fluid-header separate-containers active-footer-widgets-3 nav-search-enabled nav-aligned-center header-aligned-left dropdown-hover featured-image-active" itemtype="https://schema.org/Blog" itemscope="" data-new-gr-c-s-check-loaded="14.997.0" data-gr-ext-installed="" style="padding-bottom: 92px;">
+  120  <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a><div class="top-bar top-bar-align-center">
+  121  <div class="inside-top-bar grid-container grid-parent">
+  122  <aside id="custom_html-3" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><script language="JavaScript">
+  123  var r_text = new Array ();
+  124  r_text[0] = "<a target='_blank' href='https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/'>RedHat RHCSA and RHCE Certification Preparation Guide</a> - <a class='button' href='https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/' target='_blank'>Get This Book</a>";
+  125  r_text[1] = "<a target='_blank' href='https://www.tecmint.com/linux-foundation-lfcs-lfce-certification-exam-book/'>Linux Foundation LFCS and LFCE Certification Preparation Guide</a> - <a class='button orange' href='https://www.tecmint.com/linux-foundation-lfcs-lfce-certification-exam-book/' target='_blank'>Get This Book</a>";
+  126  r_text[2] = "<a target='_blank' href='https://www.tecmint.com/learn-linux-in-one-week/'>Learn Linux in One Week and Go From Zero to Hero</a> - <a class='button midnight-blue' href='https://www.tecmint.com/learn-linux-in-one-week/' target='_blank'>Get This Book</a>";
+  127  var i = Math.floor(3*Math.random())
+  128  document.write(r_text[i]);
+  129  //-->
+  130  </script><a target="_blank" href="https://www.tecmint.com/learn-linux-in-one-week/">Learn Linux in One Week and Go From Zero to Hero</a> - <a class="button midnight-blue" href="https://www.tecmint.com/learn-linux-in-one-week/" target="_blank">Get This Book</a></div></aside></div>
+  131  </div>
+  132  <nav id="secondary-navigation" class="secondary-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
+  133  <div class="inside-navigation">
+  134  <button class="menu-toggle secondary-menu-toggle">
+  135  <span class="mobile-menu">Menu</span></button>
+  136  <div class="main-nav"><ul id="menu-home" class=" secondary-menu sf-menu"><li id="menu-item-334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-334"><a href="https://www.tecmint.com">Home</a></li>
+  137  <li id="menu-item-10774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10774"><a target="_blank" rel="noopener" href="https://www.tecmint.com/who-we-are/">About</a></li>
+  138  <li id="menu-item-3912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3912"><a title="Linux eBooks" target="_blank" rel="noopener" href="https://www.tecmint.com/linux-books-in-pdf-format/">eBooks</a></li>
+  139  <li id="menu-item-17151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17151"><a title="Linux and Programming Online Courses" target="_blank" rel="noopener" href="https://deals.tecmint.com">Shop</a></li>
+  140  <li id="menu-item-18575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18575"><a title="Support Us" href="https://www.tecmint.com/donate-to-tecmint/">Donate</a></li>
+  141  <li id="menu-item-11736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11736"><a target="_blank" rel="noopener" href="https://www.tecmint.com/linux-online-training-courses/">Linux Online Courses</a></li>
+  142  <li id="menu-item-11907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11907"><a title="Subscribe to TecMint Linux Updates" target="_blank" rel="noopener" href="https://www.tecmint.com/subscribe-to-blog/">Subscribe to Newsletter</a></li>
+  143  <li id="menu-item-13338" class="hosting menu-item menu-item-type-custom menu-item-object-custom menu-item-13338"><a title="Best Web Hosting Companies" target="_blank" rel="noopener" href="https://www.tecmint.com/best-web-hosting-for-linux/">Linux Hosting</a></li>
+  144  <li id="menu-item-24734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24734"><a title="Linux Commands – A Beginners Cheat Sheet" target="_blank" rel="noopener" href="https://www.tecmint.com/linux-commands-cheat-sheet/">A-Z Linux Commands</a></li>
+  145  <li id="menu-item-38581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38581"><a target="_blank" rel="noopener">Get Involved<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  146  <ul class="sub-menu">
+  147  <li id="menu-item-38583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38583"><a target="_blank" rel="noopener" href="https://www.tecmint.com/testimonials/">Testimonials</a></li>
+  148  <li id="menu-item-38592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38592"><a target="_blank" rel="noopener" href="https://www.tecmint.com/submit-articles/">Join TecMint</a></li>
+  149  <li id="menu-item-38582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38582"><a target="_blank" rel="noopener" href="https://www.tecmint.com/submit-article-request/">Submit Article Request</a></li>
+  150  <li id="menu-item-38589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38589"><a target="_blank" rel="noopener" href="https://www.tecmint.com/suggest-an-update/">Suggest an Update</a></li>
+  151  </ul>
+  152  </li>
+  153  <header id="masthead" class="site-header" itemtype="https://schema.org/WPHeader" itemscope="">
+  154  <div class="inside-header grid-container grid-parent">
+  155  <div class="header-widget">
+  156  <div align="center" id="tecmint_leaderboard_atf" data-google-query-id="COfSgJHSj-8CFV7XEQgddtUG5w">
+  157  <script data-cfasync="false" type="text/javascript">
+  158  freestar.config.enabled_slots.push({ placementName: "tecmint_leaderboard_atf", slotId: "tecmint_leaderboard_atf" });
+  159  </script>
+  160  <div id="google_ads_iframe_/15184186/tecmint_leaderboard_atf_0__container__" style="border: 0pt none; width: 728px; height: 90px;"></div></div></div></aside></div>
+  161  <div class="site-logo">
+  162  <a href="https://www.tecmint.com/" title="Tecmint: Linux Howtos, Tutorials &amp; Guides" rel="home">
+  163  <img class="header-image" alt="Tecmint: Linux Howtos, Tutorials &amp; Guides" src="https://www.tecmint.com/wp-content/uploads/2020/07/logo.png" title="Tecmint: Linux Howtos, Tutorials &amp; Guides">
+  164  </a>
+  165  <nav id="site-navigation" class="main-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="">
+  166  <div class="inside-navigation">
+  167  <form method="get" class="search-form navigation-search" action="https://www.tecmint.com/">
+  168  <input type="search" class="search-field" value="" name="s" title="Search">
+  169  </form><div class="mobile-bar-items">
+  170  <span class="search-item">
+  171  <a aria-label="Open Search Bar" href="#">
+  172  </a>
+  173  </span>
+  174  <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+  175  <span class="mobile-menu">Menu</span></button>
+  176  <div id="primary-menu" class="main-nav"><ul id="menu-header" class=" menu sf-menu"><li id="menu-item-10770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10770"><a href="https://www.tecmint.com/best-linux-distributions/">Linux Distro’s<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  177  <ul class="sub-menu">
+  178  <li id="menu-item-40008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40008"><a href="https://www.tecmint.com/linux-distro-for-power-users/">Best Linux Distros</a></li>
+  179  <li id="menu-item-40934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40934"><a href="https://www.tecmint.com/redhat-based-linux-distributions/">RedHat Distributions</a></li>
+  180  <li id="menu-item-39889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39889"><a href="https://www.tecmint.com/best-linux-distributions-for-beginners/">Linux Distros for Beginners</a></li>
+  181  <li id="menu-item-39890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39890"><a href="https://www.tecmint.com/10-best-linux-server-distributions/">Linux Server Distros</a></li>
+  182  <li id="menu-item-39884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39884"><a href="https://www.tecmint.com/debian-based-linux-distributions/">Debian Distributions</a></li>
+  183  <li id="menu-item-39885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39885"><a href="https://www.tecmint.com/ubuntu-based-linux-distributions/">Ubuntu Distributions</a></li>
+  184  <li id="menu-item-39893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39893"><a href="https://www.tecmint.com/arch-based-linux-distributions/">Arch Linux Distros</a></li>
+  185  <li id="menu-item-39886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39886"><a href="https://www.tecmint.com/best-rolling-release-linux-distributions/">Rolling Linux Distros</a></li>
+  186  <li id="menu-item-39887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39887"><a href="https://www.tecmint.com/best-linux-distributions-for-kde-plasma/">KDE Linux Distros</a></li>
+  187  <li id="menu-item-39892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39892"><a href="https://www.tecmint.com/best-security-centric-linux-distributions/">Secure Linux Distros</a></li>
+  188  <li id="menu-item-39888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39888"><a href="https://www.tecmint.com/linux-distributions-for-old-computers/">Linux Distros for Old PC</a></li>
+  189  <li id="menu-item-39891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39891"><a href="https://www.tecmint.com/new-linux-distributions/">New Linux Distros</a></li>
+  190  <li id="menu-item-39894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39894"><a href="https://www.tecmint.com/best-linux-distributions-for-kids/">Linux Distros for Kids</a></li>
+  191  <li id="menu-item-39895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39895"><a href="https://www.tecmint.com/best-alternative-linux-distributions-for-windows-users/">Linux Distros for Windows Users</a></li>
+  192  </ul>
+  193  </li>
+  194  <li id="menu-item-10771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10771"><a title="Linux Interview Questions" target="_blank" rel="noopener" href="https://www.tecmint.com/category/interview-questions/">FAQ’s</a></li>
+  195  <li id="menu-item-20869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-20869"><a href="https://www.tecmint.com/#">Programming<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  196  <ul class="sub-menu">
+  197  <li id="menu-item-10772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10772"><a title="Learn Linux Shell Scripting" href="https://www.tecmint.com/category/bash-shell/">Shell Scripting</a></li>
+  198  <li id="menu-item-20870" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20870"><a href="https://www.tecmint.com/category/python/">Learn Python</a></li>
+  199  <li id="menu-item-20871" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20871"><a href="https://www.tecmint.com/category/awk-command/">Learn Awk</a></li>
+  200  </ul>
+  201  </li>
+  202  <li id="menu-item-10773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10773"><a href="https://www.tecmint.com/category/linux-commands/">Linux Commands</a></li>
+  203  <li id="menu-item-14795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14795"><a href="https://www.tecmint.com/tag/linux-tricks/">Linux Tricks</a></li>
+  204  <li id="menu-item-19684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19684"><a href="https://www.tecmint.com/category/top-tools/">Best Linux Tools</a></li>
+  205  <li id="menu-item-10443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-10443"><a target="_blank" rel="noopener" href="https://www.tecmint.com/#">Certifications<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  206  <ul class="sub-menu">
+  207  <li id="menu-item-14880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14880"><a href="https://www.tecmint.com/how-to-setup-and-configure-static-network-routing-in-rhel/">RHCE Exam</a></li>
+  208  <li id="menu-item-11906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11906"><a target="_blank" rel="noopener" href="https://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/">RHCSA Exam</a></li>
+  209  <li id="menu-item-10444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10444"><a target="_blank" rel="noopener" href="https://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/">LFCE Exam</a></li>
+  210  <li id="menu-item-14793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14793"><a href="https://www.tecmint.com/sed-command-to-create-edit-and-manipulate-files-in-linux/">LFCS Exam</a></li>
+  211  <li id="menu-item-34401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34401"><a title="Red Hat Ansible Exam Preparation Guide" target="_blank" rel="noopener" href="https://www.tecmint.com/understand-core-components-of-ansible/">Ansible Exam</a></li>
+  212  </ul>
+  213  </li>
+  214  <li id="menu-item-12399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-12399"><a href="https://www.tecmint.com/#">Guides<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  215  <ul class="sub-menu">
+  216  <li id="menu-item-40716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40716"><a href="https://www.tecmint.com/best-practices-for-deploying-hadoop-server-on-centos/">Hadoop Series</a></li>
+  217  <li id="menu-item-18564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18564"><a target="_blank" rel="noopener" href="https://www.tecmint.com/install-docker-and-learn-containers-in-centos-rhel-7-6/">Docker Series</a></li>
+  218  <li id="menu-item-17150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17150"><a href="https://www.tecmint.com/setup-postfix-mail-server-and-dovecot-with-mariadb-in-centos/">Postfix Mail</a></li>
+  219  <li id="menu-item-15041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15041"><a href="https://www.tecmint.com/citrix-xenserver-installation-and-network-configuration-in-linux/">XenServer Series</a></li>
+  220  <li id="menu-item-14794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14794"><a href="https://www.tecmint.com/install-redhat-virtualization-rhev/">RHEV Series</a></li>
+  221  <li id="menu-item-14805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14805"><a href="https://www.tecmint.com/what-is-clustering-and-advantages-disadvantages-of-clustering-in-linux/">Clustering Series</a></li>
+  222  <li id="menu-item-12400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12400"><a href="https://www.tecmint.com/create-lvm-storage-in-linux/">LVM Series</a></li>
+  223  <li id="menu-item-12402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12402"><a href="https://www.tecmint.com/understanding-raid-setup-in-linux/">RAID Series</a></li>
+  224  <li id="menu-item-12403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12403"><a href="https://www.tecmint.com/install-and-configure-kvm-in-linux/">KVM Series</a></li>
+  225  <li id="menu-item-12401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12401"><a href="https://www.tecmint.com/create-centralized-secure-storage-using-iscsi-targetin-linux/">iSCSI Series</a></li>
+  226  <li id="menu-item-12406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12406"><a href="https://www.tecmint.com/install-zentyal-as-primary-domain-controller-and-integrate-windows-system/">Zentyal Series</a></li>
+  227  <li id="menu-item-16084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16084"><a href="https://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/">Ansible Series</a></li>
+  228  <li id="menu-item-16395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16395"><a href="https://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/">Django Series</a></li>
+  229  <li id="menu-item-14603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14603"><a href="https://www.tecmint.com/create-gui-applications-in-linux/">Create GUI Apps</a></li>
+  230  </ul>
+  231  </li>
+  232  <li id="menu-item-14796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14796"><a href="https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/">Monitoring Tools<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  233  <ul class="sub-menu">
+  234  <li id="menu-item-14797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14797"><a href="https://www.tecmint.com/install-nagios-in-linux/">Nagios</a></li>
+  235  <li id="menu-item-14798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14798"><a href="https://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/">Zabbix</a></li>
+  236  <li id="menu-item-14799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14799"><a href="https://www.tecmint.com/install-cacti-network-monitoring-on-rhel-centos-6-3-5-8-and-fedora-17-12/">Cacti</a></li>
+  237  <li id="menu-item-14800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14800"><a href="https://www.tecmint.com/install-observium-in-centos/">Observium</a></li>
+  238  <li id="menu-item-14801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14801"><a href="https://www.tecmint.com/monitorix-a-lightweight-system-and-network-monitoring-tool-for-linux/">Monitorix</a></li>
+  239  <li id="menu-item-14802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14802"><a href="https://www.tecmint.com/install-collectd-and-collectd-web-to-monitor-server-resources-in-linux/">Collectd</a></li>
+  240  <li id="menu-item-14803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14803"><a href="https://www.tecmint.com/linux-performance-monitoring-with-collectl-tool/">Collectl</a></li>
+  241  <li id="menu-item-14804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14804"><a href="https://www.tecmint.com/mysql-performance-monitoring/">MySQL Monitoring</a></li>
+  242  </ul>
+  243  </li>
+  244  <div id="page" class="hfeed site grid-container container grid-parent">
+  245  <div id="content" class="site-content">
+  246  <div id="primary" class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75">
+  247  <main id="main" class="site-main">
+  248  <article id="post-37138" class="post-37138 post type-post status-publish format-standard has-post-thumbnail hentry category-ubuntu tag-teamviewer-for-linux tag-ubuntu-tips" itemtype="https://schema.org/CreativeWork" itemscope="">
+  249  <div class="inside-article">
+  250  <header class="entry-header">
+  251  <h1 class="entry-title" itemprop="headline">How to Install TeamViewer on Ubuntu</h1><div class="entry-meta">
+  252  <center style="padding-bottom:20px;padding-top:40px;">
+  253  <div align="center" id="tecmint_leaderboard_article_top" data-google-query-id="COjSgJHSj-8CFV7XEQgddtUG5w">
+  254  <script data-cfasync="false" type="text/javascript">
+  255  freestar.config.enabled_slots.push({ placementName: "tecmint_leaderboard_article_top", slotId: "tecmint_leaderboard_article_top" });
+  256  </script>
+  257  <div id="google_ads_iframe_/15184186/tecmint_leaderboard_article_top_0__container__" style="border: 0pt none; width: 728px; height: 90px;"></div></div>
+  258  </center>
+  259  <div class="entry-content" itemprop="text">
+  260  <p><strong>TeamViewer</strong> is a cross-platform, proprietary application that allows a user to remotely gain access to another user’s desktop, share the desktop and even allow <a title="10 SCP Commands to Transfer Files/Folders in Linux" href="https://www.tecmint.com/scp-commands-examples/" target="_blank" rel="noopener noreferrer">file transfer between computers</a> over an internet connection. It’s a popular application among helpdesk support staff and comes in handy when helping out remote users who are stuck and cannot find worthwhile assistance.</p>
+  261  <p>In this guide, you will learn how to install <strong>TeamViewer</strong> on <strong>Ubuntu 20.04</strong> and <strong>Ubuntu 18.04</strong> <strong>LTS</strong> versions.</p>
+  262  <h3>Installing TeamViewer in Ubuntu</h3>
+  263  <p>Before getting started, it’s recommended to update your system packages. This will ensure that you start off on a clean slate. So open your terminal and issue the command below.</p>
+  264  <pre>$ sudo apt update -y  &amp;&amp; sudo apt upgrade -y
+  265  </pre>
+  266  <p>Once you are through with updating your system, head over to the official <a href="https://www.teamviewer.com/en-us/download/linux/" target="_blank" rel="noopener nofollow noreferrer">Teamviewer’s download page</a> and download Teamviewer’s Debian package. Alternatively, you can copy the download link and download the Debian package using the following <a title="10 Wget (Linux File Downloader) Command Examples in Linux" href="https://www.tecmint.com/10-wget-command-examples-in-linux/" target="_blank" rel="noopener noreferrer">wget command</a> as shown.</p>
+  267  <pre>$ sudo wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+  268  </pre>
+  269  <p>Upon successfully downloading the file, you can verify its existence using the <a title="15 Basic ‘ls’ Command Examples in Linux" href="https://www.tecmint.com/15-basic-ls-command-examples-in-linux/" target="_blank" rel="noopener noreferrer">ls command</a> as shown.</p>
+  270  <pre>$ ls | grep teamviewer
+  271  <strong>teamviewer_amd64.deb</strong>
+  272  </pre>
+  273  <center style="padding-bottom: 45px;padding-top:35px;"><div align="center" id="tecmint_incontent" data-google-query-id="CPvIk5HSj-8CFV7XEQgddtUG5w" style="flex-direction: column;"><div id="google_ads_iframe_/15184186/tecmint_incontent_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/15184186/tecmint_incontent_0" title="3rd party ad content" name="google_ads_iframe_/15184186/tecmint_incontent_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="4" data-load-complete="true"></iframe></div><div class="__fs-ancillary" style="--childWidth:728px;"><div class="__fs-branding"><a href="https://freestar.com/?utm_medium=ad_container&amp;utm_source=branding&amp;utm_name=tecmint_incontent" target="_blank"><img src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="Freestar"></a></div></div></div></center><p>To install <strong>TeamViewer</strong>, run the command shown. This will install TeamViewer alongside other dependencies.</p>
+  274  <pre>$ sudo apt install ./teamviewer_amd64.deb
+  275  </pre>
+  276  <figure id="attachment_37139" aria-describedby="caption-attachment-37139" style="width: 726px" class="wp-caption aligncenter"><a href="https://www.tecmint.com/wp-content/uploads/2020/04/Install-TeamViewer-on-Ubuntu.png"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2020/04/Install-TeamViewer-on-Ubuntu.png" loading="lazy" class="size-full wp-image-37139" alt="Install TeamViewer on Ubuntu" width="736" height="472"><noscript><img loading="lazy" class="size-full wp-image-37139" src="https://www.tecmint.com/wp-content/uploads/2020/04/Install-TeamViewer-on-Ubuntu.png" alt="Install TeamViewer on Ubuntu" width="736" height="472" /></noscript></a><figcaption id="caption-attachment-37139" class="wp-caption-text">Install TeamViewer on Ubuntu</figcaption></figure>
+  277  <p>When prompted to continue with the installation, type <code>‘Y’</code> for <strong>Yes</strong> and hit the ‘<strong>ENTER</strong>’ button.</p>
+  278  <p>Once the installation is complete, you can proceed to Launch <strong>Teamviewer</strong>. To launch <strong>Teamviewer</strong>, run the command below on the terminal.</p>
+  279  <pre>$ teamviewer
+  280  </pre>
+  281  <p>Also, you can use the application manager to search and launch the <strong>TeamViewer</strong> application as shown.</p>
+  282  <figure id="attachment_37140" aria-describedby="caption-attachment-37140" style="width: 505px" class="wp-caption aligncenter"><a href="https://www.tecmint.com/wp-content/uploads/2020/04/Search-TeamViewer-on-Ubuntu.png"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2020/04/Search-TeamViewer-on-Ubuntu.png" loading="lazy" class="size-full wp-image-37140" alt="Launch TeamViewer from Application Manager" width="515" height="266"><noscript><img loading="lazy" class="size-full wp-image-37140" src="https://www.tecmint.com/wp-content/uploads/2020/04/Search-TeamViewer-on-Ubuntu.png" alt="Launch TeamViewer from Application Manager" width="515" height="266" /></noscript></a><figcaption id="caption-attachment-37140" class="wp-caption-text">Launch TeamViewer from Application Manager</figcaption></figure>
+  283  <p>Once launched, Accept the EULA agreement as shown.</p>
+  284  <figure id="attachment_37141" aria-describedby="caption-attachment-37141" style="width: 568px" class="wp-caption aligncenter"><a href="https://www.tecmint.com/wp-content/uploads/2020/04/TeamViewer-License-Agreement.png"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2020/04/TeamViewer-License-Agreement.png" loading="lazy" class="size-full wp-image-37141" alt="TeamViewer License Agreement" width="578" height="355"><noscript><img loading="lazy" class="size-full wp-image-37141" src="https://www.tecmint.com/wp-content/uploads/2020/04/TeamViewer-License-Agreement.png" alt="TeamViewer License Agreement" width="578" height="355" /></noscript></a><figcaption id="caption-attachment-37141" class="wp-caption-text">TeamViewer License Agreement</figcaption></figure>
+  285  <p>And finally, you’ll get TeamViewer’s user interface and shown below.</p>
+  286  <figure id="attachment_37142" aria-describedby="caption-attachment-37142" style="width: 878px" class="wp-caption aligncenter"><a href="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png" loading="lazy" class="size-full wp-image-37142" alt="Running TeamViewer on Ubuntu" width="888" height="523" srcset="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png 888w, https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu-768x452.png 768w" sizes="(max-width: 888px) 100vw, 888px"><noscript><img loading="lazy" class="size-full wp-image-37142" src="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png" alt="Running TeamViewer on Ubuntu" width="888" height="523" srcset="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png 888w, https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu-768x452.png 768w" sizes="(max-width: 888px) 100vw, 888px" /></noscript></a><figcaption id="caption-attachment-37142" class="wp-caption-text">Running TeamViewer on Ubuntu</figcaption></figure>
+  287  <p>To make a remote connection to another user, simply provide them with your <strong>Teamviewer ID</strong> and <strong>password</strong>. The user will insert the <strong>ID</strong> at the ‘<strong>Insert partner ID</strong>’ text field after which they will click on the ‘<strong>Connect</strong>’ button. Later, they will be prompted for the <strong>password</strong> which will then give them a remote connection to your desktop.</p>
+  288  <p>And that’s how you install <strong>TeamViewer</strong> on <strong>Ubuntu</strong>. Thanks for taking the time on this article.</p>
+  289  <footer class="entry-meta">
+  290  <span class="tags-links"><span class="screen-reader-text">Tags </span><a href="https://www.tecmint.com/tag/teamviewer-for-linux/" rel="tag">TeamViewer for Linux</a>, <a href="https://www.tecmint.com/tag/ubuntu-tips/" rel="tag">Ubuntu Tips</a></span> <nav id="nav-below" class="post-navigation">
+  291  <span class="screen-reader-text">Post navigation</span>
+  292  <div class="alertbox">If you liked this article, then do <a style="text-decoration:underline;color:bb0e30;" rel="nofollow" target="_blank" href="https://newsletter.tecmint.com/subscription?f=hj6Ohm9gck3Z0PQ2BBBTh892iaCbDV3jJJa3hD8ULUlubOgnbo8aF44vt2HZfdc36g">subscribe to email alerts</a> for Linux tutorials. If you have any questions or doubts? do <a style="text-decoration:underline;color:bb0e30;" href="https://www.tecmint.com/install-teamviewer-on-ubuntu/#respond">ask for help in the comments</a> section.</div>
+  293  <center style="padding-bottom:20px;padding-top:40px;">
+  294  <div align="center" id="tecmint_incontent_2" data-google-query-id="COHKk5HSj-8CFV7XEQgddtUG5w" style="flex-direction: column;">
+  295  <div id="google_ads_iframe_/15184186/tecmint_incontent_2_0__container__" style="border: 0pt none; visibility: visible; min-width: 100%;"><iframe id="google_ads_iframe_/15184186/tecmint_incontent_2_0" title="3rd party ad content" name="google_ads_iframe_/15184186/tecmint_incontent_2_0" width="859" height="557" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" srcdoc="" style="border: 0px; vertical-align: bottom; min-width: 100%;" data-google-container-id="5" data-load-complete="true"></iframe></div><div class="__fs-ancillary" style="--childWidth:859.25px;"><div class="__fs-branding"><a href="https://freestar.com/?utm_medium=ad_container&amp;utm_source=branding&amp;utm_name=tecmint_incontent_2" target="_blank"><img src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="Freestar"></a></div></div></div>
+  296  </center>
+  297  <div class="after-post-box">
+  298  <h2>If You Appreciate What We Do Here On TecMint, You Should Consider:</h2>
+  299  <p>TecMint is the fastest growing and most trusted community site for any kind of Linux Articles, Guides and Books on the web. Millions of people visit TecMint! to search or browse the thousands of published articles available FREELY to all.</p>
+  300  <p>If you like what you are reading, please consider buying us a coffee ( or 2 ) as a token of appreciation.</p>
+  301  <p align="center"><a href="https://www.buymeacoffee.com/tecmint" rel="nofollow" target="_blank"><img alt="Support Us" src="https://www.tecmint.com/wp-content/uploads/2015/01/coffee.png"></a></p>
+  302  <p style="text-align: center;"><strong style=" color:#fe3300;font-size:20px;">We are thankful for your never ending support.</strong></p>
+  303  </div>
+  304  <div class="wpsp-related-posts  grid-container">
+  305  <h2>Related Posts</h2>
+  306  <style>.wp-show-posts-columns#wpsp-38213 {margin-left: -2em; }.wp-show-posts-columns#wpsp-38213 .wp-show-posts-inner {margin: 0 0 2em 2em; }</style><section id="wpsp-38213" class=" wp-show-posts-columns wp-show-posts" style=""><article class=" wp-show-posts-single post-41772 post type-post status-publish format-standard has-post-thumbnail hentry category-security category-ssh category-ubuntu tag-ssh-tips tag-ubuntu-tips wpsp-col-4" itemtype="http://schema.org/CreativeWork" itemscope=""><div class="wp-show-posts-inner" style=""><div class="wp-show-posts-image  wpsp-image-center ">
+  307  <a href="https://www.tecmint.com/enable-two-factor-authentication-in-ubuntu/" title="How to Use Two-Factor Authentication with Ubuntu"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/02/Enable-Two-Factor-Authentication-in-ubuntu.png" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Enable Two Factor Authentication in Ubuntu" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/02/Enable-Two-Factor-Authentication-in-ubuntu.png" class="attachment-full size-full wp-post-image" alt="Enable Two Factor Authentication in Ubuntu" loading="lazy" itemprop="image" /></noscript></a></div>
+  308  <header class="wp-show-posts-entry-header">
+  309  <a href="https://www.tecmint.com/improve-php-fpm-performance/" title="How To Prevent PHP-FPM From Consuming Too Much RAM in Linux"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/02/Improve-PHP-FPM-Performance.jpeg" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Improve PHP-FPM Performance" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/02/Improve-PHP-FPM-Performance.jpeg" class="attachment-full size-full wp-post-image" alt="Improve PHP-FPM Performance" loading="lazy" itemprop="image" /></noscript></a></div>
+  310  <header class="wp-show-posts-entry-header">
+  311  <a href="https://www.tecmint.com/fix-ntfs-partition-failed-to-mount-error/" title="How to Fix NTFS Partition Failed to Mount Error in Linux"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/02/Fix-NTFS-Partition-Failed-to-Mount-Error.png" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Fix NTFS Partition Failed to Mount Error" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/02/Fix-NTFS-Partition-Failed-to-Mount-Error.png" class="attachment-full size-full wp-post-image" alt="Fix NTFS Partition Failed to Mount Error" loading="lazy" itemprop="image" /></noscript></a></div>
+  312  <header class="wp-show-posts-entry-header">
+  313  <a href="https://www.tecmint.com/install-reactjs-on-ubuntu/" title="How to Install ReactJS on Ubuntu"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/02/Install-ReactJS-on-Ubuntu.png" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Install ReactJS on Ubuntu" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/02/Install-ReactJS-on-Ubuntu.png" class="attachment-full size-full wp-post-image" alt="Install ReactJS on Ubuntu" loading="lazy" itemprop="image" /></noscript></a></div>
+  314  <header class="wp-show-posts-entry-header">
+  315  <a href="https://www.tecmint.com/install-wine-on-ubuntu-and-linux-mint/" title="How to Install Wine 6.0 on Debian, Ubuntu and Linux Mint"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2014/01/Install-Wine-in-Ubuntu.png" width="720" height="345" class="attachment-full size-full wp-post-image" alt="Install Wine in Ubuntu, Debian and Linux Mint" loading="lazy" itemprop="image"><noscript><img width="720" height="345" src="https://www.tecmint.com/wp-content/uploads/2014/01/Install-Wine-in-Ubuntu.png" class="attachment-full size-full wp-post-image" alt="Install Wine in Ubuntu, Debian and Linux Mint" loading="lazy" itemprop="image" /></noscript></a></div>
+  316  <header class="wp-show-posts-entry-header">
+  317  <a href="https://www.tecmint.com/install-wine-in-ubuntu/" title="How to Install Wine 6.0 in Ubuntu"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/01/Install-Wine-on-Ubuntu.png" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Install Wine on Ubuntu" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/01/Install-Wine-on-Ubuntu.png" class="attachment-full size-full wp-post-image" alt="Install Wine on Ubuntu" loading="lazy" itemprop="image" /></noscript></a></div>
+  318  <header class="wp-show-posts-entry-header">
+  319  <div class="comments-area">
+  320  <div id="comments">
+  321  <div id="respond" class="comment-respond">
+  322  <h3 id="reply-title" class="comment-reply-title">Got something to say? Join the discussion. <small><a rel="nofollow" id="cancel-comment-reply-link" href="/install-teamviewer-on-ubuntu/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://www.tecmint.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate=""><p>
+  323  Have a question or suggestion? Please leave a comment to start the discussion. Please keep in mind that all comments are moderated and your email address will NOT be published.
+  324  </p><p class="comment-form-comment"><label for="comment" class="screen-reader-text">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><label for="author" class="screen-reader-text">Name</label><input placeholder="Name *" id="author" name="author" type="text" value="" size="30">
+  325  <label for="email" class="screen-reader-text">Email</label><input placeholder="Email *" id="email" name="email" type="email" value="" size="30">
+  326  <label for="url" class="screen-reader-text">Website</label><input placeholder="Website" id="url" name="url" type="url" value="" size="30">
+  327  <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+  328  <p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input style="width:30px" type="checkbox" name="subscribe-reloaded" id="subscribe-reloaded" value="yes"> Notify me of followup comments via e-mail. You can also <a href="https://www.tecmint.com/comment-subscriptions/?srp=37138&amp;srk=0b81c0e99cc43eb9ade2ba1b6ab240b4&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="37138" id="comment_post_ID">
+  329  <input type="hidden" name="comment_parent" id="comment_parent" value="0">
+  330  <p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>
+  331  </div>
+  332  <div id="right-sidebar" class="widget-area grid-25 tablet-grid-25 grid-parent sidebar" itemtype="https://schema.org/WPSideBar" itemscope="">
+  333  <div class="inside-right-sidebar">
+  334  <aside id="custom_html-10" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center>
+  335  <div class="socialprofiles">
+  336  <p style="font-weight:800;color:#c33;font-size:20px;">Over 3,500,000+ Readers</p>
+  337  <a href="https://www.facebook.com/TecMint" target="_blank" rel="nofollow noopener noreferrer" title="Join TecMint on Facebook"><img alt="Join TecMint on Facebook" src="https://www.tecmint.com/wp-content/themes/tecmint/images/facebook.png"></a>
+  338  <a href="https://twitter.com/tecmint" target="_blank" rel="nofollow noopener noreferrer" title="Follow TecMint on Twitter"><img alt="Follow TecMint on Twitter" src="https://www.tecmint.com/wp-content/themes/tecmint/images/twitter.png"></a>
+  339  <a href="https://www.linkedin.com/company/tecmint" target="_blank" rel="nofollow noopener noreferrer" title="Join TecMint on LinkedIn"><img alt="Join TecMint on LinkedIn" src="https://www.tecmint.com/wp-content/themes/tecmint/images/linkedin.png"></a>
+  340  <a href="https://instagram.com/tecmint" target="_blank" rel="nofollow noopener noreferrer" title="Follow TecMint on Instagram"><img alt="Follow TecMint on Instagram" src="https://www.tecmint.com/wp-content/themes/tecmint/images/instagram.png"></a>
+  341  <a href="https://feedly.com/i/subscription/feed/https://www.tecmint.com/feed/" target="_blank" rel="nofollow noopener noreferrer" title="Follow TecMint via RSS Feed"><img alt="Follow TecMint via RSS Feed" src="https://www.tecmint.com/wp-content/themes/tecmint/images/rss.png"></a>
+  342  <a href="https://newsletter.tecmint.com/subscription?f=hj6Ohm9gck3Z0PQ2BBBTh4xtntJsKPHpjU3Ss5Mu1O763RGTDSDdS763PO2S1YiRQhr3zrLEAIC7M4CTkFesfgGC2g" target="_blank" rel="nofollow noopener noreferrer" title="Subscribe to TecMint Newsletter"><img alt="Subscribe to TecMint Newsletter" src="https://www.tecmint.com/wp-content/themes/tecmint/images/newsletter.png"></a>
+  343  </div></center></div></aside><aside id="custom_html-9" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center>
+  344  <div align="center" id="tecmint_right_rail_1" data-google-query-id="COvSgJHSj-8CFV7XEQgddtUG5w">
+  345  <script data-cfasync="false" type="text/javascript">
+  346  freestar.config.enabled_slots.push({ placementName: "tecmint_right_rail_1", slotId: "tecmint_right_rail_1" });
+  347  </script>
+  348  <div id="google_ads_iframe_/15184186/tecmint_right_rail_1_0__container__" style="border: 0pt none; width: 300px; height: 250px;"></div></div>
+  349  </center></div></aside><aside id="custom_html-8" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><a style="color: #c33;font-weight:700; text-align: center;    display: inline-block;text-decoration: underline;" href="https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/" target="_blank" rel="noopener">A Beginners Guide To Learn Linux  for Free [with Examples]</a></div></aside><aside id="custom_html-4" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center>
+  350  <div align="center" id="tecmint_right_rail_2" data-google-query-id="CKfOk5HSj-8CFV7XEQgddtUG5w" style="flex-direction: column;">
+  351  <div id="google_ads_iframe_/15184186/tecmint_right_rail_2_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/15184186/tecmint_right_rail_2_0" title="3rd party ad content" name="google_ads_iframe_/15184186/tecmint_right_rail_2_0" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="7" data-load-complete="true"></iframe></div><div class="__fs-ancillary" style="--childWidth:299.75px;"><div class="__fs-branding"><a href="https://freestar.com/?utm_medium=ad_container&amp;utm_source=branding&amp;utm_name=tecmint_right_rail_2" target="_blank"><img src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="Freestar"></a></div></div></div>
+  352  </center></div></aside><aside id="custom_html-5" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><a style="color: #c33;font-weight:700; text-align: center;    display: inline-block;text-decoration: underline;" href="https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/" target="_blank" rel="noopener">Red Hat RHCSA/RHCE 8 Certification Study Guide [eBooks]</a></div></aside><aside id="custom_html-6" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><a style="color: #c33;font-weight:700; text-align: center;    display: inline-block;text-decoration: underline;" href="https://www.tecmint.com/linux-foundation-lfcs-lfce-certification-exam-book/" target="_blank" rel="noopener">Linux Foundation LFCS and LFCE Certification Study Guide [eBooks]</a></div></aside><aside id="custom_html-7" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center>
+  353  <div id="tecmint_right_rail_3" align="center" data-google-query-id="CKDQk5HSj-8CFV7XEQgddtUG5w" style="flex-direction: column;"><div id="google_ads_iframe_/15184186/tecmint_right_rail_3_0__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 250px;"><iframe frameborder="0" src="https://f5cdaa54c9257880f33132799806f45d.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/15184186/tecmint_right_rail_3_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="250" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="8" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div><div class="__fs-ancillary" style="--childWidth:300px;"><div class="__fs-branding"><a href="https://freestar.com/?utm_medium=ad_container&amp;utm_source=branding&amp;utm_name=tecmint_right_rail_3" target="_blank"><img src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="Freestar"></a></div></div></div>
+  354  </center></div></aside><aside id="wpsp_widget-2" class="widget inner-padding widget_wpsp_widget"><h2 class="widget-title">Learn Linux Commands and Tools</h2><style>.wp-show-posts-columns#wpsp-38336 {margin-left: -2em; }.wp-show-posts-columns#wpsp-38336 .wp-show-posts-inner {margin: 0 0 2em 2em; }</style><section id="wpsp-38336" class=" wp-show-posts" style=""><article class=" wp-show-posts-single wpsp-clearfix post-23273 post type-post status-publish format-standard has-post-thumbnail hentry category-linux-commands tag-linux-tricks" itemtype="http://schema.org/CreativeWork" itemscope=""><div class="wp-show-posts-inner" style=""><header class="wp-show-posts-entry-header">
+  355  <a rel="nofollow noopener" target="_blank" href="https://newsletter.tecmint.com/subscription?f=hj6Ohm9gck3Z0PQ2BBBTh892iaCbDV3jJJa3hD8ULUlubOgnbo8aF44vt2HZfdc36g"><img alt="Join TecMint Weekly Newsletter" src="https://www.tecmint.com/wp-content/uploads/2020/07/Tecmint-Email-Newsletter-Signup.png"></a>
+  356  </center>
+  357  <p style="text-align:center;border-top: 2px dashed #8e8e8e;margin-top: 10px;padding-top: 10px;">If You Appreciate What We Do Here On TecMint, You Should Consider:</p>
+  358  <center style="padding-top:10px;padding-bottom:30px;">
+  359  <div id="tecmint_leaderboard_btf" align="center" data-google-query-id="CO7SgJHSj-8CFV7XEQgddtUG5w"><script data-cfasync="false" type="text/javascript">
+  360  freestar.config.enabled_slots.push({ placementName: "tecmint_leaderboard_btf", slotId: "tecmint_leaderboard_btf" });
+  361  </script><div id="google_ads_iframe_/15184186/tecmint_leaderboard_btf_0__container__" style="border: 0pt none; width: 728px; height: 90px;"></div></div>
+  362  </center>
+  363  <div class="site-footer footer-bar-active footer-bar-align-center">
+  364  <div id="footer-widgets" class="site footer-widgets">
+  365  <div class="footer-widgets-container grid-container grid-parent">
+  366  <div class="inside-footer-widgets">
+  367  <div class="footer-widget-1 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+  368  <aside id="wpsp_widget-3" class="widget inner-padding widget_wpsp_widget"><h2 class="widget-title">Linux Server Monitoring Tools</h2><style>.wp-show-posts-columns#wpsp-38337 {margin-left: -2em; }.wp-show-posts-columns#wpsp-38337 .wp-show-posts-inner {margin: 0 0 2em 2em; }</style><section id="wpsp-38337" class=" wp-show-posts" style=""><article class=" wp-show-posts-single wpsp-clearfix post-16156 post type-post status-publish format-standard has-post-thumbnail hentry category-monitoring-tools category-zabbix tag-zabbix" itemtype="http://schema.org/CreativeWork" itemscope=""><div class="wp-show-posts-inner" style=""><header class="wp-show-posts-entry-header">
+  369  dir
+  370  cd Documents/
+  371  cd projects/
+  372  composer create-project laravel/laravel ex1
+  373  <body data-rsssl="1" class="post-template-default single single-post postid-37138 single-format-standard wp-custom-logo wp-embed-responsive post-image-above-header post-image-aligned-center secondary-nav-above-header secondary-nav-aligned-center right-sidebar nav-below-header fluid-header separate-containers active-footer-widgets-3 nav-search-enabled nav-aligned-center header-aligned-left dropdown-hover featured-image-active" itemtype="https://schema.org/Blog" itemscope="" data-new-gr-c-s-check-loaded="14.997.0" data-gr-ext-installed="" style="padding-bottom: 92px;">
+  374  <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a><div class="top-bar top-bar-align-center">
+  375  <div class="inside-top-bar grid-container grid-parent">
+  376  <aside id="custom_html-3" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><script language="JavaScript">
+  377  var r_text = new Array ();
+  378  r_text[0] = "<a target='_blank' href='https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/'>RedHat RHCSA and RHCE Certification Preparation Guide</a> - <a class='button' href='https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/' target='_blank'>Get This Book</a>";
+  379  r_text[1] = "<a target='_blank' href='https://www.tecmint.com/linux-foundation-lfcs-lfce-certification-exam-book/'>Linux Foundation LFCS and LFCE Certification Preparation Guide</a> - <a class='button orange' href='https://www.tecmint.com/linux-foundation-lfcs-lfce-certification-exam-book/' target='_blank'>Get This Book</a>";
+  380  r_text[2] = "<a target='_blank' href='https://www.tecmint.com/learn-linux-in-one-week/'>Learn Linux in One Week and Go From Zero to Hero</a> - <a class='button midnight-blue' href='https://www.tecmint.com/learn-linux-in-one-week/' target='_blank'>Get This Book</a>";
+  381  var i = Math.floor(3*Math.random())
+  382  document.write(r_text[i]);
+  383  //-->
+  384  </script><a target="_blank" href="https://www.tecmint.com/learn-linux-in-one-week/">Learn Linux in One Week and Go From Zero to Hero</a> - <a class="button midnight-blue" href="https://www.tecmint.com/learn-linux-in-one-week/" target="_blank">Get This Book</a></div></aside></div>
+  385  </div>
+  386  <nav id="secondary-navigation" class="secondary-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
+  387  <div class="inside-navigation">
+  388  <button class="menu-toggle secondary-menu-toggle">
+  389  <span class="mobile-menu">Menu</span></button>
+  390  <div class="main-nav"><ul id="menu-home" class=" secondary-menu sf-menu"><li id="menu-item-334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-334"><a href="https://www.tecmint.com">Home</a></li>
+  391  <li id="menu-item-10774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10774"><a target="_blank" rel="noopener" href="https://www.tecmint.com/who-we-are/">About</a></li>
+  392  <li id="menu-item-3912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3912"><a title="Linux eBooks" target="_blank" rel="noopener" href="https://www.tecmint.com/linux-books-in-pdf-format/">eBooks</a></li>
+  393  <li id="menu-item-17151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17151"><a title="Linux and Programming Online Courses" target="_blank" rel="noopener" href="https://deals.tecmint.com">Shop</a></li>
+  394  <li id="menu-item-18575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18575"><a title="Support Us" href="https://www.tecmint.com/donate-to-tecmint/">Donate</a></li>
+  395  <li id="menu-item-11736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11736"><a target="_blank" rel="noopener" href="https://www.tecmint.com/linux-online-training-courses/">Linux Online Courses</a></li>
+  396  <li id="menu-item-11907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11907"><a title="Subscribe to TecMint Linux Updates" target="_blank" rel="noopener" href="https://www.tecmint.com/subscribe-to-blog/">Subscribe to Newsletter</a></li>
+  397  <li id="menu-item-13338" class="hosting menu-item menu-item-type-custom menu-item-object-custom menu-item-13338"><a title="Best Web Hosting Companies" target="_blank" rel="noopener" href="https://www.tecmint.com/best-web-hosting-for-linux/">Linux Hosting</a></li>
+  398  <li id="menu-item-24734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24734"><a title="Linux Commands – A Beginners Cheat Sheet" target="_blank" rel="noopener" href="https://www.tecmint.com/linux-commands-cheat-sheet/">A-Z Linux Commands</a></li>
+  399  <li id="menu-item-38581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38581"><a target="_blank" rel="noopener">Get Involved<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  400  <ul class="sub-menu">
+  401  <li id="menu-item-38583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38583"><a target="_blank" rel="noopener" href="https://www.tecmint.com/testimonials/">Testimonials</a></li>
+  402  <li id="menu-item-38592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38592"><a target="_blank" rel="noopener" href="https://www.tecmint.com/submit-articles/">Join TecMint</a></li>
+  403  <li id="menu-item-38582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38582"><a target="_blank" rel="noopener" href="https://www.tecmint.com/submit-article-request/">Submit Article Request</a></li>
+  404  <li id="menu-item-38589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38589"><a target="_blank" rel="noopener" href="https://www.tecmint.com/suggest-an-update/">Suggest an Update</a></li>
+  405  </ul>
+  406  </li>
+  407  <header id="masthead" class="site-header" itemtype="https://schema.org/WPHeader" itemscope="">
+  408  <div class="inside-header grid-container grid-parent">
+  409  <div class="header-widget">
+  410  <div align="center" id="tecmint_leaderboard_atf" data-google-query-id="COfSgJHSj-8CFV7XEQgddtUG5w">
+  411  <script data-cfasync="false" type="text/javascript">
+  412  freestar.config.enabled_slots.push({ placementName: "tecmint_leaderboard_atf", slotId: "tecmint_leaderboard_atf" });
+  413  </script>
+  414  <div id="google_ads_iframe_/15184186/tecmint_leaderboard_atf_0__container__" style="border: 0pt none; width: 728px; height: 90px;"></div></div></div></aside></div>
+  415  <div class="site-logo">
+  416  <a href="https://www.tecmint.com/" title="Tecmint: Linux Howtos, Tutorials &amp; Guides" rel="home">
+  417  <img class="header-image" alt="Tecmint: Linux Howtos, Tutorials &amp; Guides" src="https://www.tecmint.com/wp-content/uploads/2020/07/logo.png" title="Tecmint: Linux Howtos, Tutorials &amp; Guides">
+  418  </a>
+  419  <nav id="site-navigation" class="main-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="">
+  420  <div class="inside-navigation">
+  421  <form method="get" class="search-form navigation-search" action="https://www.tecmint.com/">
+  422  <input type="search" class="search-field" value="" name="s" title="Search">
+  423  </form><div class="mobile-bar-items">
+  424  <span class="search-item">
+  425  <a aria-label="Open Search Bar" href="#">
+  426  </a>
+  427  </span>
+  428  <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+  429  <span class="mobile-menu">Menu</span></button>
+  430  <div id="primary-menu" class="main-nav"><ul id="menu-header" class=" menu sf-menu"><li id="menu-item-10770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10770"><a href="https://www.tecmint.com/best-linux-distributions/">Linux Distro’s<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  431  <ul class="sub-menu">
+  432  <li id="menu-item-40008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40008"><a href="https://www.tecmint.com/linux-distro-for-power-users/">Best Linux Distros</a></li>
+  433  <li id="menu-item-40934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40934"><a href="https://www.tecmint.com/redhat-based-linux-distributions/">RedHat Distributions</a></li>
+  434  <li id="menu-item-39889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39889"><a href="https://www.tecmint.com/best-linux-distributions-for-beginners/">Linux Distros for Beginners</a></li>
+  435  <li id="menu-item-39890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39890"><a href="https://www.tecmint.com/10-best-linux-server-distributions/">Linux Server Distros</a></li>
+  436  <li id="menu-item-39884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39884"><a href="https://www.tecmint.com/debian-based-linux-distributions/">Debian Distributions</a></li>
+  437  <li id="menu-item-39885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39885"><a href="https://www.tecmint.com/ubuntu-based-linux-distributions/">Ubuntu Distributions</a></li>
+  438  <li id="menu-item-39893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39893"><a href="https://www.tecmint.com/arch-based-linux-distributions/">Arch Linux Distros</a></li>
+  439  <li id="menu-item-39886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39886"><a href="https://www.tecmint.com/best-rolling-release-linux-distributions/">Rolling Linux Distros</a></li>
+  440  <li id="menu-item-39887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39887"><a href="https://www.tecmint.com/best-linux-distributions-for-kde-plasma/">KDE Linux Distros</a></li>
+  441  <li id="menu-item-39892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39892"><a href="https://www.tecmint.com/best-security-centric-linux-distributions/">Secure Linux Distros</a></li>
+  442  <li id="menu-item-39888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39888"><a href="https://www.tecmint.com/linux-distributions-for-old-computers/">Linux Distros for Old PC</a></li>
+  443  <li id="menu-item-39891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39891"><a href="https://www.tecmint.com/new-linux-distributions/">New Linux Distros</a></li>
+  444  <li id="menu-item-39894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39894"><a href="https://www.tecmint.com/best-linux-distributions-for-kids/">Linux Distros for Kids</a></li>
+  445  <li id="menu-item-39895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39895"><a href="https://www.tecmint.com/best-alternative-linux-distributions-for-windows-users/">Linux Distros for Windows Users</a></li>
+  446  </ul>
+  447  </li>
+  448  <li id="menu-item-10771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10771"><a title="Linux Interview Questions" target="_blank" rel="noopener" href="https://www.tecmint.com/category/interview-questions/">FAQ’s</a></li>
+  449  <li id="menu-item-20869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-20869"><a href="https://www.tecmint.com/#">Programming<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  450  <ul class="sub-menu">
+  451  <li id="menu-item-10772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10772"><a title="Learn Linux Shell Scripting" href="https://www.tecmint.com/category/bash-shell/">Shell Scripting</a></li>
+  452  <li id="menu-item-20870" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20870"><a href="https://www.tecmint.com/category/python/">Learn Python</a></li>
+  453  <li id="menu-item-20871" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20871"><a href="https://www.tecmint.com/category/awk-command/">Learn Awk</a></li>
+  454  </ul>
+  455  </li>
+  456  <li id="menu-item-10773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10773"><a href="https://www.tecmint.com/category/linux-commands/">Linux Commands</a></li>
+  457  <li id="menu-item-14795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14795"><a href="https://www.tecmint.com/tag/linux-tricks/">Linux Tricks</a></li>
+  458  <li id="menu-item-19684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19684"><a href="https://www.tecmint.com/category/top-tools/">Best Linux Tools</a></li>
+  459  <li id="menu-item-10443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-10443"><a target="_blank" rel="noopener" href="https://www.tecmint.com/#">Certifications<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  460  <ul class="sub-menu">
+  461  <li id="menu-item-14880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14880"><a href="https://www.tecmint.com/how-to-setup-and-configure-static-network-routing-in-rhel/">RHCE Exam</a></li>
+  462  <li id="menu-item-11906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11906"><a target="_blank" rel="noopener" href="https://www.tecmint.com/rhcsa-exam-reviewing-essential-commands-system-documentation/">RHCSA Exam</a></li>
+  463  <li id="menu-item-10444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10444"><a target="_blank" rel="noopener" href="https://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/">LFCE Exam</a></li>
+  464  <li id="menu-item-14793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14793"><a href="https://www.tecmint.com/sed-command-to-create-edit-and-manipulate-files-in-linux/">LFCS Exam</a></li>
+  465  <li id="menu-item-34401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34401"><a title="Red Hat Ansible Exam Preparation Guide" target="_blank" rel="noopener" href="https://www.tecmint.com/understand-core-components-of-ansible/">Ansible Exam</a></li>
+  466  </ul>
+  467  </li>
+  468  <li id="menu-item-12399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-12399"><a href="https://www.tecmint.com/#">Guides<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  469  <ul class="sub-menu">
+  470  <li id="menu-item-40716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40716"><a href="https://www.tecmint.com/best-practices-for-deploying-hadoop-server-on-centos/">Hadoop Series</a></li>
+  471  <li id="menu-item-18564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18564"><a target="_blank" rel="noopener" href="https://www.tecmint.com/install-docker-and-learn-containers-in-centos-rhel-7-6/">Docker Series</a></li>
+  472  <li id="menu-item-17150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17150"><a href="https://www.tecmint.com/setup-postfix-mail-server-and-dovecot-with-mariadb-in-centos/">Postfix Mail</a></li>
+  473  <li id="menu-item-15041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15041"><a href="https://www.tecmint.com/citrix-xenserver-installation-and-network-configuration-in-linux/">XenServer Series</a></li>
+  474  <li id="menu-item-14794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14794"><a href="https://www.tecmint.com/install-redhat-virtualization-rhev/">RHEV Series</a></li>
+  475  <li id="menu-item-14805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14805"><a href="https://www.tecmint.com/what-is-clustering-and-advantages-disadvantages-of-clustering-in-linux/">Clustering Series</a></li>
+  476  <li id="menu-item-12400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12400"><a href="https://www.tecmint.com/create-lvm-storage-in-linux/">LVM Series</a></li>
+  477  <li id="menu-item-12402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12402"><a href="https://www.tecmint.com/understanding-raid-setup-in-linux/">RAID Series</a></li>
+  478  <li id="menu-item-12403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12403"><a href="https://www.tecmint.com/install-and-configure-kvm-in-linux/">KVM Series</a></li>
+  479  <li id="menu-item-12401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12401"><a href="https://www.tecmint.com/create-centralized-secure-storage-using-iscsi-targetin-linux/">iSCSI Series</a></li>
+  480  <li id="menu-item-12406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12406"><a href="https://www.tecmint.com/install-zentyal-as-primary-domain-controller-and-integrate-windows-system/">Zentyal Series</a></li>
+  481  <li id="menu-item-16084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16084"><a href="https://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/">Ansible Series</a></li>
+  482  <li id="menu-item-16395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16395"><a href="https://www.tecmint.com/install-and-configure-django-web-framework-in-centos-debian-ubuntu/">Django Series</a></li>
+  483  <li id="menu-item-14603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14603"><a href="https://www.tecmint.com/create-gui-applications-in-linux/">Create GUI Apps</a></li>
+  484  </ul>
+  485  </li>
+  486  <li id="menu-item-14796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14796"><a href="https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/">Monitoring Tools<span role="presentation" class="dropdown-menu-toggle"></span></a>
+  487  <ul class="sub-menu">
+  488  <li id="menu-item-14797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14797"><a href="https://www.tecmint.com/install-nagios-in-linux/">Nagios</a></li>
+  489  <li id="menu-item-14798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14798"><a href="https://www.tecmint.com/install-and-configure-zabbix-monitoring-on-debian-centos-rhel/">Zabbix</a></li>
+  490  <li id="menu-item-14799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14799"><a href="https://www.tecmint.com/install-cacti-network-monitoring-on-rhel-centos-6-3-5-8-and-fedora-17-12/">Cacti</a></li>
+  491  <li id="menu-item-14800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14800"><a href="https://www.tecmint.com/install-observium-in-centos/">Observium</a></li>
+  492  <li id="menu-item-14801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14801"><a href="https://www.tecmint.com/monitorix-a-lightweight-system-and-network-monitoring-tool-for-linux/">Monitorix</a></li>
+  493  <li id="menu-item-14802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14802"><a href="https://www.tecmint.com/install-collectd-and-collectd-web-to-monitor-server-resources-in-linux/">Collectd</a></li>
+  494  <li id="menu-item-14803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14803"><a href="https://www.tecmint.com/linux-performance-monitoring-with-collectl-tool/">Collectl</a></li>
+  495  <li id="menu-item-14804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14804"><a href="https://www.tecmint.com/mysql-performance-monitoring/">MySQL Monitoring</a></li>
+  496  </ul>
+  497  </li>
+  498  <div id="page" class="hfeed site grid-container container grid-parent">
+  499  <div id="content" class="site-content">
+  500  <div id="primary" class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75">
+  501  <main id="main" class="site-main">
+  502  <article id="post-37138" class="post-37138 post type-post status-publish format-standard has-post-thumbnail hentry category-ubuntu tag-teamviewer-for-linux tag-ubuntu-tips" itemtype="https://schema.org/CreativeWork" itemscope="">
+  503  <div class="inside-article">
+  504  <header class="entry-header">
+  505  <h1 class="entry-title" itemprop="headline">How to Install TeamViewer on Ubuntu</h1><div class="entry-meta">
+  506  <center style="padding-bottom:20px;padding-top:40px;">
+  507  <div align="center" id="tecmint_leaderboard_article_top" data-google-query-id="COjSgJHSj-8CFV7XEQgddtUG5w">
+  508  <script data-cfasync="false" type="text/javascript">
+  509  freestar.config.enabled_slots.push({ placementName: "tecmint_leaderboard_article_top", slotId: "tecmint_leaderboard_article_top" });
+  510  </script>
+  511  <div id="google_ads_iframe_/15184186/tecmint_leaderboard_article_top_0__container__" style="border: 0pt none; width: 728px; height: 90px;"></div></div>
+  512  </center>
+  513  <div class="entry-content" itemprop="text">
+  514  <p><strong>TeamViewer</strong> is a cross-platform, proprietary application that allows a user to remotely gain access to another user’s desktop, share the desktop and even allow <a title="10 SCP Commands to Transfer Files/Folders in Linux" href="https://www.tecmint.com/scp-commands-examples/" target="_blank" rel="noopener noreferrer">file transfer between computers</a> over an internet connection. It’s a popular application among helpdesk support staff and comes in handy when helping out remote users who are stuck and cannot find worthwhile assistance.</p>
+  515  <p>In this guide, you will learn how to install <strong>TeamViewer</strong> on <strong>Ubuntu 20.04</strong> and <strong>Ubuntu 18.04</strong> <strong>LTS</strong> versions.</p>
+  516  <h3>Installing TeamViewer in Ubuntu</h3>
+  517  <p>Before getting started, it’s recommended to update your system packages. This will ensure that you start off on a clean slate. So open your terminal and issue the command below.</p>
+  518  <pre>$ sudo apt update -y  &amp;&amp; sudo apt upgrade -y
+  519  </pre>
+  520  <p>Once you are through with updating your system, head over to the official <a href="https://www.teamviewer.com/en-us/download/linux/" target="_blank" rel="noopener nofollow noreferrer">Teamviewer’s download page</a> and download Teamviewer’s Debian package. Alternatively, you can copy the download link and download the Debian package using the following <a title="10 Wget (Linux File Downloader) Command Examples in Linux" href="https://www.tecmint.com/10-wget-command-examples-in-linux/" target="_blank" rel="noopener noreferrer">wget command</a> as shown.</p>
+  521  <pre>$ sudo wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+  522  </pre>
+  523  <p>Upon successfully downloading the file, you can verify its existence using the <a title="15 Basic ‘ls’ Command Examples in Linux" href="https://www.tecmint.com/15-basic-ls-command-examples-in-linux/" target="_blank" rel="noopener noreferrer">ls command</a> as shown.</p>
+  524  <pre>$ ls | grep teamviewer
+  525  <strong>teamviewer_amd64.deb</strong>
+  526  </pre>
+  527  <center style="padding-bottom: 45px;padding-top:35px;"><div align="center" id="tecmint_incontent" data-google-query-id="CPvIk5HSj-8CFV7XEQgddtUG5w" style="flex-direction: column;"><div id="google_ads_iframe_/15184186/tecmint_incontent_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/15184186/tecmint_incontent_0" title="3rd party ad content" name="google_ads_iframe_/15184186/tecmint_incontent_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="4" data-load-complete="true"></iframe></div><div class="__fs-ancillary" style="--childWidth:728px;"><div class="__fs-branding"><a href="https://freestar.com/?utm_medium=ad_container&amp;utm_source=branding&amp;utm_name=tecmint_incontent" target="_blank"><img src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="Freestar"></a></div></div></div></center><p>To install <strong>TeamViewer</strong>, run the command shown. This will install TeamViewer alongside other dependencies.</p>
+  528  <pre>$ sudo apt install ./teamviewer_amd64.deb
+  529  </pre>
+  530  <figure id="attachment_37139" aria-describedby="caption-attachment-37139" style="width: 726px" class="wp-caption aligncenter"><a href="https://www.tecmint.com/wp-content/uploads/2020/04/Install-TeamViewer-on-Ubuntu.png"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2020/04/Install-TeamViewer-on-Ubuntu.png" loading="lazy" class="size-full wp-image-37139" alt="Install TeamViewer on Ubuntu" width="736" height="472"><noscript><img loading="lazy" class="size-full wp-image-37139" src="https://www.tecmint.com/wp-content/uploads/2020/04/Install-TeamViewer-on-Ubuntu.png" alt="Install TeamViewer on Ubuntu" width="736" height="472" /></noscript></a><figcaption id="caption-attachment-37139" class="wp-caption-text">Install TeamViewer on Ubuntu</figcaption></figure>
+  531  <p>When prompted to continue with the installation, type <code>‘Y’</code> for <strong>Yes</strong> and hit the ‘<strong>ENTER</strong>’ button.</p>
+  532  <p>Once the installation is complete, you can proceed to Launch <strong>Teamviewer</strong>. To launch <strong>Teamviewer</strong>, run the command below on the terminal.</p>
+  533  <pre>$ teamviewer
+  534  </pre>
+  535  <p>Also, you can use the application manager to search and launch the <strong>TeamViewer</strong> application as shown.</p>
+  536  <figure id="attachment_37140" aria-describedby="caption-attachment-37140" style="width: 505px" class="wp-caption aligncenter"><a href="https://www.tecmint.com/wp-content/uploads/2020/04/Search-TeamViewer-on-Ubuntu.png"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2020/04/Search-TeamViewer-on-Ubuntu.png" loading="lazy" class="size-full wp-image-37140" alt="Launch TeamViewer from Application Manager" width="515" height="266"><noscript><img loading="lazy" class="size-full wp-image-37140" src="https://www.tecmint.com/wp-content/uploads/2020/04/Search-TeamViewer-on-Ubuntu.png" alt="Launch TeamViewer from Application Manager" width="515" height="266" /></noscript></a><figcaption id="caption-attachment-37140" class="wp-caption-text">Launch TeamViewer from Application Manager</figcaption></figure>
+  537  <p>Once launched, Accept the EULA agreement as shown.</p>
+  538  <figure id="attachment_37141" aria-describedby="caption-attachment-37141" style="width: 568px" class="wp-caption aligncenter"><a href="https://www.tecmint.com/wp-content/uploads/2020/04/TeamViewer-License-Agreement.png"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2020/04/TeamViewer-License-Agreement.png" loading="lazy" class="size-full wp-image-37141" alt="TeamViewer License Agreement" width="578" height="355"><noscript><img loading="lazy" class="size-full wp-image-37141" src="https://www.tecmint.com/wp-content/uploads/2020/04/TeamViewer-License-Agreement.png" alt="TeamViewer License Agreement" width="578" height="355" /></noscript></a><figcaption id="caption-attachment-37141" class="wp-caption-text">TeamViewer License Agreement</figcaption></figure>
+  539  <p>And finally, you’ll get TeamViewer’s user interface and shown below.</p>
+  540  <figure id="attachment_37142" aria-describedby="caption-attachment-37142" style="width: 878px" class="wp-caption aligncenter"><a href="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png" loading="lazy" class="size-full wp-image-37142" alt="Running TeamViewer on Ubuntu" width="888" height="523" srcset="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png 888w, https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu-768x452.png 768w" sizes="(max-width: 888px) 100vw, 888px"><noscript><img loading="lazy" class="size-full wp-image-37142" src="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png" alt="Running TeamViewer on Ubuntu" width="888" height="523" srcset="https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu.png 888w, https://www.tecmint.com/wp-content/uploads/2020/04/Running-TeamViewer-on-Ubuntu-768x452.png 768w" sizes="(max-width: 888px) 100vw, 888px" /></noscript></a><figcaption id="caption-attachment-37142" class="wp-caption-text">Running TeamViewer on Ubuntu</figcaption></figure>
+  541  <p>To make a remote connection to another user, simply provide them with your <strong>Teamviewer ID</strong> and <strong>password</strong>. The user will insert the <strong>ID</strong> at the ‘<strong>Insert partner ID</strong>’ text field after which they will click on the ‘<strong>Connect</strong>’ button. Later, they will be prompted for the <strong>password</strong> which will then give them a remote connection to your desktop.</p>
+  542  <p>And that’s how you install <strong>TeamViewer</strong> on <strong>Ubuntu</strong>. Thanks for taking the time on this article.</p>
+  543  <footer class="entry-meta">
+  544  <span class="tags-links"><span class="screen-reader-text">Tags </span><a href="https://www.tecmint.com/tag/teamviewer-for-linux/" rel="tag">TeamViewer for Linux</a>, <a href="https://www.tecmint.com/tag/ubuntu-tips/" rel="tag">Ubuntu Tips</a></span> <nav id="nav-below" class="post-navigation">
+  545  <span class="screen-reader-text">Post navigation</span>
+  546  <div class="alertbox">If you liked this article, then do <a style="text-decoration:underline;color:bb0e30;" rel="nofollow" target="_blank" href="https://newsletter.tecmint.com/subscription?f=hj6Ohm9gck3Z0PQ2BBBTh892iaCbDV3jJJa3hD8ULUlubOgnbo8aF44vt2HZfdc36g">subscribe to email alerts</a> for Linux tutorials. If you have any questions or doubts? do <a style="text-decoration:underline;color:bb0e30;" href="https://www.tecmint.com/install-teamviewer-on-ubuntu/#respond">ask for help in the comments</a> section.</div>
+  547  <center style="padding-bottom:20px;padding-top:40px;">
+  548  <div align="center" id="tecmint_incontent_2" data-google-query-id="COHKk5HSj-8CFV7XEQgddtUG5w" style="flex-direction: column;">
+  549  <div id="google_ads_iframe_/15184186/tecmint_incontent_2_0__container__" style="border: 0pt none; visibility: visible; min-width: 100%;"><iframe id="google_ads_iframe_/15184186/tecmint_incontent_2_0" title="3rd party ad content" name="google_ads_iframe_/15184186/tecmint_incontent_2_0" width="859" height="557" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" srcdoc="" style="border: 0px; vertical-align: bottom; min-width: 100%;" data-google-container-id="5" data-load-complete="true"></iframe></div><div class="__fs-ancillary" style="--childWidth:859.25px;"><div class="__fs-branding"><a href="https://freestar.com/?utm_medium=ad_container&amp;utm_source=branding&amp;utm_name=tecmint_incontent_2" target="_blank"><img src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="Freestar"></a></div></div></div>
+  550  </center>
+  551  <div class="after-post-box">
+  552  <h2>If You Appreciate What We Do Here On TecMint, You Should Consider:</h2>
+  553  <p>TecMint is the fastest growing and most trusted community site for any kind of Linux Articles, Guides and Books on the web. Millions of people visit TecMint! to search or browse the thousands of published articles available FREELY to all.</p>
+  554  <p>If you like what you are reading, please consider buying us a coffee ( or 2 ) as a token of appreciation.</p>
+  555  <p align="center"><a href="https://www.buymeacoffee.com/tecmint" rel="nofollow" target="_blank"><img alt="Support Us" src="https://www.tecmint.com/wp-content/uploads/2015/01/coffee.png"></a></p>
+  556  <p style="text-align: center;"><strong style=" color:#fe3300;font-size:20px;">We are thankful for your never ending support.</strong></p>
+  557  </div>
+  558  <div class="wpsp-related-posts  grid-container">
+  559  <h2>Related Posts</h2>
+  560  <style>.wp-show-posts-columns#wpsp-38213 {margin-left: -2em; }.wp-show-posts-columns#wpsp-38213 .wp-show-posts-inner {margin: 0 0 2em 2em; }</style><section id="wpsp-38213" class=" wp-show-posts-columns wp-show-posts" style=""><article class=" wp-show-posts-single post-41772 post type-post status-publish format-standard has-post-thumbnail hentry category-security category-ssh category-ubuntu tag-ssh-tips tag-ubuntu-tips wpsp-col-4" itemtype="http://schema.org/CreativeWork" itemscope=""><div class="wp-show-posts-inner" style=""><div class="wp-show-posts-image  wpsp-image-center ">
+  561  <a href="https://www.tecmint.com/enable-two-factor-authentication-in-ubuntu/" title="How to Use Two-Factor Authentication with Ubuntu"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/02/Enable-Two-Factor-Authentication-in-ubuntu.png" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Enable Two Factor Authentication in Ubuntu" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/02/Enable-Two-Factor-Authentication-in-ubuntu.png" class="attachment-full size-full wp-post-image" alt="Enable Two Factor Authentication in Ubuntu" loading="lazy" itemprop="image" /></noscript></a></div>
+  562  <header class="wp-show-posts-entry-header">
+  563  <a href="https://www.tecmint.com/improve-php-fpm-performance/" title="How To Prevent PHP-FPM From Consuming Too Much RAM in Linux"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/02/Improve-PHP-FPM-Performance.jpeg" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Improve PHP-FPM Performance" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/02/Improve-PHP-FPM-Performance.jpeg" class="attachment-full size-full wp-post-image" alt="Improve PHP-FPM Performance" loading="lazy" itemprop="image" /></noscript></a></div>
+  564  <header class="wp-show-posts-entry-header">
+  565  <a href="https://www.tecmint.com/fix-ntfs-partition-failed-to-mount-error/" title="How to Fix NTFS Partition Failed to Mount Error in Linux"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/02/Fix-NTFS-Partition-Failed-to-Mount-Error.png" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Fix NTFS Partition Failed to Mount Error" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/02/Fix-NTFS-Partition-Failed-to-Mount-Error.png" class="attachment-full size-full wp-post-image" alt="Fix NTFS Partition Failed to Mount Error" loading="lazy" itemprop="image" /></noscript></a></div>
+  566  <header class="wp-show-posts-entry-header">
+  567  <a href="https://www.tecmint.com/install-reactjs-on-ubuntu/" title="How to Install ReactJS on Ubuntu"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/02/Install-ReactJS-on-Ubuntu.png" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Install ReactJS on Ubuntu" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/02/Install-ReactJS-on-Ubuntu.png" class="attachment-full size-full wp-post-image" alt="Install ReactJS on Ubuntu" loading="lazy" itemprop="image" /></noscript></a></div>
+  568  <header class="wp-show-posts-entry-header">
+  569  <a href="https://www.tecmint.com/install-wine-on-ubuntu-and-linux-mint/" title="How to Install Wine 6.0 on Debian, Ubuntu and Linux Mint"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2014/01/Install-Wine-in-Ubuntu.png" width="720" height="345" class="attachment-full size-full wp-post-image" alt="Install Wine in Ubuntu, Debian and Linux Mint" loading="lazy" itemprop="image"><noscript><img width="720" height="345" src="https://www.tecmint.com/wp-content/uploads/2014/01/Install-Wine-in-Ubuntu.png" class="attachment-full size-full wp-post-image" alt="Install Wine in Ubuntu, Debian and Linux Mint" loading="lazy" itemprop="image" /></noscript></a></div>
+  570  <header class="wp-show-posts-entry-header">
+  571  <a href="https://www.tecmint.com/install-wine-in-ubuntu/" title="How to Install Wine 6.0 in Ubuntu"><img src="https://www.tecmint.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="https://www.tecmint.com/wp-content/uploads/2021/01/Install-Wine-on-Ubuntu.png" width="720" height="340" class="attachment-full size-full wp-post-image" alt="Install Wine on Ubuntu" loading="lazy" itemprop="image"><noscript><img width="720" height="340" src="https://www.tecmint.com/wp-content/uploads/2021/01/Install-Wine-on-Ubuntu.png" class="attachment-full size-full wp-post-image" alt="Install Wine on Ubuntu" loading="lazy" itemprop="image" /></noscript></a></div>
+  572  <header class="wp-show-posts-entry-header">
+  573  <div class="comments-area">
+  574  <div id="comments">
+  575  <div id="respond" class="comment-respond">
+  576  <h3 id="reply-title" class="comment-reply-title">Got something to say? Join the discussion. <small><a rel="nofollow" id="cancel-comment-reply-link" href="/install-teamviewer-on-ubuntu/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://www.tecmint.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate=""><p>
+  577  Have a question or suggestion? Please leave a comment to start the discussion. Please keep in mind that all comments are moderated and your email address will NOT be published.
+  578  </p><p class="comment-form-comment"><label for="comment" class="screen-reader-text">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><label for="author" class="screen-reader-text">Name</label><input placeholder="Name *" id="author" name="author" type="text" value="" size="30">
+  579  <label for="email" class="screen-reader-text">Email</label><input placeholder="Email *" id="email" name="email" type="email" value="" size="30">
+  580  <label for="url" class="screen-reader-text">Website</label><input placeholder="Website" id="url" name="url" type="url" value="" size="30">
+  581  <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+  582  <p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input style="width:30px" type="checkbox" name="subscribe-reloaded" id="subscribe-reloaded" value="yes"> Notify me of followup comments via e-mail. You can also <a href="https://www.tecmint.com/comment-subscriptions/?srp=37138&amp;srk=0b81c0e99cc43eb9ade2ba1b6ab240b4&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="37138" id="comment_post_ID">
+  583  <input type="hidden" name="comment_parent" id="comment_parent" value="0">
+  584  <p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>
+  585  </div>
+  586  <div id="right-sidebar" class="widget-area grid-25 tablet-grid-25 grid-parent sidebar" itemtype="https://schema.org/WPSideBar" itemscope="">
+  587  <div class="inside-right-sidebar">
+  588  <aside id="custom_html-10" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center>
+  589  <div class="socialprofiles">
+  590  <p style="font-weight:800;color:#c33;font-size:20px;">Over 3,500,000+ Readers</p>
+  591  <a href="https://www.facebook.com/TecMint" target="_blank" rel="nofollow noopener noreferrer" title="Join TecMint on Facebook"><img alt="Join TecMint on Facebook" src="https://www.tecmint.com/wp-content/themes/tecmint/images/facebook.png"></a>
+  592  <a href="https://twitter.com/tecmint" target="_blank" rel="nofollow noopener noreferrer" title="Follow TecMint on Twitter"><img alt="Follow TecMint on Twitter" src="https://www.tecmint.com/wp-content/themes/tecmint/images/twitter.png"></a>
+  593  <a href="https://www.linkedin.com/company/tecmint" target="_blank" rel="nofollow noopener noreferrer" title="Join TecMint on LinkedIn"><img alt="Join TecMint on LinkedIn" src="https://www.tecmint.com/wp-content/themes/tecmint/images/linkedin.png"></a>
+  594  <a href="https://instagram.com/tecmint" target="_blank" rel="nofollow noopener noreferrer" title="Follow TecMint on Instagram"><img alt="Follow TecMint on Instagram" src="https://www.tecmint.com/wp-content/themes/tecmint/images/instagram.png"></a>
+  595  <a href="https://feedly.com/i/subscription/feed/https://www.tecmint.com/feed/" target="_blank" rel="nofollow noopener noreferrer" title="Follow TecMint via RSS Feed"><img alt="Follow TecMint via RSS Feed" src="https://www.tecmint.com/wp-content/themes/tecmint/images/rss.png"></a>
+  596  <a href="https://newsletter.tecmint.com/subscription?f=hj6Ohm9gck3Z0PQ2BBBTh4xtntJsKPHpjU3Ss5Mu1O763RGTDSDdS763PO2S1YiRQhr3zrLEAIC7M4CTkFesfgGC2g" target="_blank" rel="nofollow noopener noreferrer" title="Subscribe to TecMint Newsletter"><img alt="Subscribe to TecMint Newsletter" src="https://www.tecmint.com/wp-content/themes/tecmint/images/newsletter.png"></a>
+  597  </div></center></div></aside><aside id="custom_html-9" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center>
+  598  <div align="center" id="tecmint_right_rail_1" data-google-query-id="COvSgJHSj-8CFV7XEQgddtUG5w">
+  599  <script data-cfasync="false" type="text/javascript">
+  600  freestar.config.enabled_slots.push({ placementName: "tecmint_right_rail_1", slotId: "tecmint_right_rail_1" });
+  601  </script>
+  602  <div id="google_ads_iframe_/15184186/tecmint_right_rail_1_0__container__" style="border: 0pt none; width: 300px; height: 250px;"></div></div>
+  603  </center></div></aside><aside id="custom_html-8" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><a style="color: #c33;font-weight:700; text-align: center;    display: inline-block;text-decoration: underline;" href="https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/" target="_blank" rel="noopener">A Beginners Guide To Learn Linux  for Free [with Examples]</a></div></aside><aside id="custom_html-4" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center>
+  604  <div align="center" id="tecmint_right_rail_2" data-google-query-id="CKfOk5HSj-8CFV7XEQgddtUG5w" style="flex-direction: column;">
+  605  <div id="google_ads_iframe_/15184186/tecmint_right_rail_2_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/15184186/tecmint_right_rail_2_0" title="3rd party ad content" name="google_ads_iframe_/15184186/tecmint_right_rail_2_0" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="7" data-load-complete="true"></iframe></div><div class="__fs-ancillary" style="--childWidth:299.75px;"><div class="__fs-branding"><a href="https://freestar.com/?utm_medium=ad_container&amp;utm_source=branding&amp;utm_name=tecmint_right_rail_2" target="_blank"><img src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="Freestar"></a></div></div></div>
+  606  </center></div></aside><aside id="custom_html-5" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><a style="color: #c33;font-weight:700; text-align: center;    display: inline-block;text-decoration: underline;" href="https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/" target="_blank" rel="noopener">Red Hat RHCSA/RHCE 8 Certification Study Guide [eBooks]</a></div></aside><aside id="custom_html-6" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><a style="color: #c33;font-weight:700; text-align: center;    display: inline-block;text-decoration: underline;" href="https://www.tecmint.com/linux-foundation-lfcs-lfce-certification-exam-book/" target="_blank" rel="noopener">Linux Foundation LFCS and LFCE Certification Study Guide [eBooks]</a></div></aside><aside id="custom_html-7" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center>
+  607  <div id="tecmint_right_rail_3" align="center" data-google-query-id="CKDQk5HSj-8CFV7XEQgddtUG5w" style="flex-direction: column;"><div id="google_ads_iframe_/15184186/tecmint_right_rail_3_0__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 250px;"><iframe frameborder="0" src="https://f5cdaa54c9257880f33132799806f45d.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/15184186/tecmint_right_rail_3_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="250" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="8" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div><div class="__fs-ancillary" style="--childWidth:300px;"><div class="__fs-branding"><a href="https://freestar.com/?utm_medium=ad_container&amp;utm_source=branding&amp;utm_name=tecmint_right_rail_3" target="_blank"><img src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="Freestar"></a></div></div></div>
+  608  </center></div></aside><aside id="wpsp_widget-2" class="widget inner-padding widget_wpsp_widget"><h2 class="widget-title">Learn Linux Commands and Tools</h2><style>.wp-show-posts-columns#wpsp-38336 {margin-left: -2em; }.wp-show-posts-columns#wpsp-38336 .wp-show-posts-inner {margin: 0 0 2em 2em; }</style><section id="wpsp-38336" class=" wp-show-posts" style=""><article class=" wp-show-posts-single wpsp-clearfix post-23273 post type-post status-publish format-standard has-post-thumbnail hentry category-linux-commands tag-linux-tricks" itemtype="http://schema.org/CreativeWork" itemscope=""><div class="wp-show-posts-inner" style=""><header class="wp-show-posts-entry-header">
+  609  $ sudo apt update -y  && sudo apt upgrade -y
+  610  $ sudo wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+  611  sudo wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+  612  sudo service apache2 status
+  613  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curlsudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curlsudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+  614  sudo apt update
+  615  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curlsudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curlsudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+  616  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curlsudo
+  617  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+  618  sudo mysql
+  619  sudo apt install phpmyadmin
+  620  sudo phpenmod mbstring
+  621  sudo systemctl restart apache2
+  622  sudo mysq
+  623  sudo mysql
+  624  sudo ln -s /etc/phpmyadmin/ /var/www/html/phpmyadmin
+  625  cd Documents/projects/
+  626  dir
+  627  cd A
+  628  cd Advance-Ecommerce-in-laravel-7/
+  629  php artisan serve
+  630  cd 
+  631  cd var
+  632  cd: var
+  633  sudo apt-get install -y phpmyadmin
+  634  cd ~/Documents/projects/microjo.site/
+  635  php artisan serve
+  636  sudo mysql
+  637  dir
+  638  cd Advance-Ecommerce-in-laravel-7/
+  639  php artisan serve
+  640  cd ..
+  641  cd microjo.site/
+  642  php artisan key:generate
+  643  php artisan servve
+  644  dir
+  645  sudo apt-get install -y phpmyadmin
+  646  cd etc
+  647  cd ~/Documents/projects/microjo.site/
+  648  cd ..
+  649  cd\\
+  650  cd..
+  651  cd.
+  652  cd ..
+  653  sudo chown -R www-data.www-data /var/www/travel_list/storage
+  654  sudo chown -R www-data.www-data /var/www/Advance-Ecommerce-in-laravel-7/storage
+  655  cd ~/var
+  656  cd ~/var/www
+  657  -cd
+  658  sudo chown -R www-data.www-data /var/www/Advance-Ecommerce-in-laravel-7/storage
+  659  cd /var
+  660  cd www
+  661  ls
+  662  cd html
+  663  sudo chown -R www-data.www-data /var/www/html/Advance-Ecommerce-in-laravel-7/storage
+  664  sudo chown -R www-data.www-data /var/www/Advance-Ecommerce-in-laravel-7/bootstrap/cache
+  665  sudo chown -R www-data.www-data /var/www/html/Advance-Ecommerce-in-laravel-7/bootstrap/cache
+  666  sudo nano /etc/nginx/sites-available/Advance-Ecommerce-in-laravel-7
+  667  sudo mkdir /etc/nginx/sites-available
+  668  sudo apt update
+  669  sudo apt install nginx
+  670  sudo systemctl status nginx
+  671  sudo nano /etc/nginx/sites-available/Advance-Ecommerce-in-laravel-7
+  672  sudo nginx -t
+  673  sudo nano /etc/nginx/sites-available/Advance-Ecommerce-in-laravel-7
+  674  sudo nginx -t
+  675  sudo ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/
+  676  sudo nano /etc/nginx/sites-available/Advance-Ecommerce-in-laravel-7
+  677  sudo systemctl reload nginx
+  678  sudo systemctl restart nginx
+  679  sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/sooq.com
+  680  sudo nano /etc/nginx/sites-available/sooq.com
+  681  sudo ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/
+  682  sudo ln -s /etc/nginx/sites-available/sooq.com /etc/nginx/sites-enabled/
+  683  sudo systemctl reload nginx
+  684  sudo fuser -k 80/tcp
+  685  sudo fuser -k 443/tcp
+  686  sudo service nginx restart
+  687  sudo /etc/init.d/apache2 stop
+  688  sudo systemctl restart nginx
+  689  sudo /etc/init.d/apache2 start
+  690  sudo systemctl restart ngin
+  691  sudo yum install epel-release
+  692  sudo install epel-release
+  693  sudo systemctl -l enable nginx
+  694  sudo systemctl restart ngin
+  695  sudo service nginx restar
+  696  sudo service nginx restart
+  697  sudo service nginx reload
+  698  sudo get-install nginx
+  699  sudo fuser -k 80/tcp
+  700  sudo fuser -k 443/tcp
+  701  sudo service nginx restart
+  702  nginx -t 
+  703  service nginx configtest
+  704  sudo service nginx restart
+  705  systemctl stop apache2
+  706  systemctl status apache2
+  707  systemctl stop nginx
+  708  systemctl status nginx
+  709  systemctl start apache2
+  710  sudo systemctl restart nginx
+  711  systemctl status nginx
+  712  cd /etc/nginx/sites-enabled
+  713  ls
+  714  sudo rm sooq.com
+  715  sudo nginx -t  
+  716  sudo service nginx reload  
+  717  cd ..
+  718  dir
+  719  ls
+  720  cd sites-available/
+  721  ls
+  722  sudo rm sooq.com
+  723  sudo service nginx reload  
+  724  sudo systemctl status nginx
+  725  sudo get-update
+  726  $ sudo apt update -y  && sudo apt upgrade -y
+  727  $ sudo apt update
+  728  cd/
+  729  cd..
+  730  cd ..
+  731  $ sudo apt update
+  732  sudo apt-get purge nginx nginx-common
+  733  sudo apt-get autoremove
+  734  sudo apt install nginx
+  735  sudo apt update
+  736  $ sudo service apache2 restart
+  737  $ sudo service apache2 stop
+  738  $ sudo service apache2 
+  739  $ sudo apt update
+  740  sudo service nginx reload  
+  741  sudo service nginx  
+  742  sudo service nginx start 
+  743  sudo apt-get remove --purge apache2 apache2-utils
+  744  udo rm -rf /etc/apache2
+  745  sudo rm -rf /etc/apache2
+  746  sudo add-apt-repository ppa:nginx/stable
+  747  sudo apt-get install nginx
+  748  sudo /etc/init.d/nginx start
+  749  sudo nano /etc/nginx/sites-available/magcard
+  750  sudo ln -s /etc/nginx/sites-available/travel_list /etc/nginx/sites-enabled/
+  751  sudo ln -s /etc/nginx/magcard/travel_list /etc/nginx/sites-enabled/
+  752  sudo ln -s /etc/nginx/sites-available/magcard /etc/nginx/sites-enabled/
+  753  sudo nginx -t
+  754  sudo nano /etc/nginx/sites-available/magcard
+  755  sudo nginx -t
+  756  sudo ln -s /etc/nginx/sites-available/magcard /etc/nginx/sites-enabled/
+  757  sudo systemctl reload nginx
+  758  sudo ln -s /etc/nginx/sites-available/magcard/etc/nginx/sites-enabled/
+  759  sudo systemctl reload nginx
+  760  sudo service nginx start 
+  761  sudo service nginx 
+  762  sudo service nginx reload
+  763  sudo service nginx start 
+  764  sudo nano /etc/nginx/sites-available/magcard
+  765  sudo service nginx start 
+  766  sudo service nginx reload
+  767  sudo systemctl reload nginx
+  768  sudo fuser -k 80/tcp
+  769  sudo fuser -k 443/tcp
+  770  sudo service nginx restart
+  771  sudo service nginx start 
+  772  systemctl status nginx
+  773  systemctl start nginx
+  774  systemctl enable nginx
+  775  nginx -t
+  776  systemctl restart nginx
+  777  chown -R www-data:www-data /var/www/magcard
+  778  chown -R www-data:www-data /var/www/html/magcard
+  779  netstat -plant | grep '80\|443'
+  780  systemctl restart nginx
+  781  cd /etc/nginx/sites-enabled
+  782  sudo "${EDITOR:-vi}" tutorial
+  783  server {
+  784  sudo "${EDITOR:-vi} tutorial
+  785  sudo "${EDITOR:-vi}" tutorial
+  786  exit
+  787  sudo "${EDITOR:-vi}" magcard
+  788  sudo "${EDITOR:-vi}" maccard
+  789  sudo "${EDITOR:-vi}" magcard
+  790  ssh root@167.172.233.124
+  791  sudo service nginx restart 
+  792  sudo service nginx restart 
+  793  sudo service nginx status 
+  794  rm /etc/nginx/sites-enabled/travel_list
+  795  sudo rm /etc/nginx/sites-enabled/travel_list
+  796  sudo service nginx restart 
+  797  sudo service nginx status 
+  798  sudo rm /etc/nginx/sites-enabled/travel_list
+  799  sudo service nginx restart 
+  800  tail -f /var/log/nginx/access.log 
+  801  php artisan serve
+  802  sudo chmod -cR 777 storage/
+  803  history
+  804  sudo chmod -cR 777 storage/
+  805  php artisan serve
+  806  sudo service nginx restart 
+  807  tail -f /var/log/nginx/access.log 
+  808  sudo service nginx restart 
+  809  tail -f /var/log/nginx/access.log 
+  810  sudo service nginx restart 
+  811  tail -f /var/log/nginx/access.log 
+  812  tail -f /var/log/nginx/error.log 
+  813  sudo apt-get install php7.4-fpm
+  814  sudo service nginx restart 
+  815  tail -f /var/log/nginx/error.log 
+  816  ssh-keygen 
+  817  cat .ssh/id_rsa.pub 
+  818  sudo nano /etc/nginx/sites-available/microjo.site
+  819  sudo nano /etc/nginx/sites-enabled/microjo.site
+  820  systemctl restart nginx
+  821  chown -R www-data:www-data /var/www/html/microjo.site
+  822  sudo chmod -R ug+rwx storage bootstrap/cache
+  823  cd /var
+  824  ls
+  825  cd www
+  826  ls
+  827  cd html
+  828  ls
+  829  cd microjo.site/
+  830  sudo chmod -R ug+rwx storage bootstrap/cache
+  831  chmod -R 777 storage
+  832  /usr/share/nginx/www
+  833  cd /usr/share/nginx/www
+  834  cd.
+  835  cd ..
+  836  cdexit
+  837  cd/
+  838  cd..
+  839  cd .
+  840  cd..
+  841  cd ..
+  842  cd /usr/share/nginx/www
+  843  cd /var
+  844  cd ..
+  845  rm -rf /usr/share/nginx/www
+  846  sudo ln -s /usr/share/phpmyadmin/ /var/www/html/phpmyadmin
+  847  ls -al /var/www/html
+  848  mysql -u root -p
+  849  mysql -u root2 -p
+  850  cd /var
+  851  ls
+  852  cd www/html/
+  853  ls
+  854  cd magcard/
+  855  chmod -R 777 storage
+  856  mysql -u root2 -p
+  857  php artisan serve
+  858  cd ..
+  859  ln
+  860  dir
+  861  ccd microjo.site/
+  862  cd microjo.site/
+  863  sudo chmod -R 777 public
+  864  cd ..
+  865  cd ma
+  866  cd magcard/
+  867  sudo chmod -R 777 public
+  868  php artisan storage:link
+  869  npm install
+  870  ssh root@167.172.233.124
+  871  sudo nano /etc/nginx/sites-enabled/magcard
+  872  sudo nano /etc/nginx/sites-enabled/magorg
+  873  sudo nano /etc/nginx/sites-available/magorg
+  874  sudo nano /etc/nginx/sites-enabled/magorg
+  875  sudo chmod -R 777 public
+  876  cd ..
+  877  cd magorg/
+  878  sudo chmod -R 777 public
+  879  sudo chown -R $USER:www-data storage
+  880  sudo chown -R $USER:www-data bootstrap/cache
+  881  chmod -R 775 bootstrap/cache
+  882  php artisan make:seeder UserTableSeeder
+  883  history > print.txt
